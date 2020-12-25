@@ -8,7 +8,7 @@ Skills:  Analytics Languages: Python ● Visualization tools: Excel, Tableau , S
 
 - 🌱 I’m currently learning Deep Learning .. 
 - 💬 Ask me about Machine Learning ,Statistics and Probability ,Image processing,OpenCv,Python 
-- 📫 How to reach me: amreeshkumar914@gmail.com 
+- 📫 How to reach me: amreeshkumar7860@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amreesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amreesh-kumar-13b70015b/)
